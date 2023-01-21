@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+#button-2{
+    border: 1px solid black;
+}
+.block{
+   display: inline-block;
+   width: 100%;
+}
